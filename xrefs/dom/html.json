@@ -165,6 +165,7 @@
     "attr-script-async": "attr-script-async",
     "attr-script-crossorigin": "attr-script-crossorigin",
     "attr-script-defer": "attr-script-defer",
+    "attr-script-nonce": "attr-script-nonce",
     "attr-script-language": "attr-script-language",
     "attr-script-type": "attr-script-type",
     "attr-spellcheck": "attr-spellcheck",
